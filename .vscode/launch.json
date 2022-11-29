@@ -7,7 +7,7 @@
 
         {
             "name": "Dart & Flutter",
-            "program" : "Exercises1.dart",
+            "program" : "Exercises6.dart",
             "request": "launch",
             "type": "dart"
         }
