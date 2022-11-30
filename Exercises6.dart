@@ -1,6 +1,6 @@
 import 'client.dart';
 
-import 'loyalClient.dart';
+import 'LoyalClient.dart';
 
 void main() {
   var c = Client("Daron Petsche");
